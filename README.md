@@ -11,7 +11,7 @@
     6. Está satisfeito com as derivadas refeições? (1-5)
     7. Recomenda esta escola a outras pessoas? (Sim/Não)
 
-Cada pergunta tem a sua avaliação. Após feito, vai perguntar em que nome quer guardar as respostas, como por exemplo:
+Cada pergunta tem a sua avaliação. Após feito, vai perguntar em que nome, nome do ficheiro, quer guardar as respostas, como por exemplo:
 
     Introduza o nome do ficheiro para guardar os resultados (ex: resultados.txt): EXEMPLO.txt
 
